@@ -1,15 +1,14 @@
-### Hi there
-<h1>Welcome to my Github</h2>
-**Fuseinitahiru/Fuseinitahiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there
+### <h1>Welcome to my Github Fellas </h2>
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on a uber-like model but this is for commercial buses(troskis , Danfo bus) and motorcycles
+#### 🌱 I’m currently learning 
+#### 👯 I’m looking to collaborate on trading bot or any open-source project
+#### 🤔 I’m looking for devs with the same mindset to change Africa using a code at a time
+#### 💬 Ask me about anything _Python , Blockchain ,JavaScript and anything at all_
+#### 📫 How to reach me :Twitter **[tifuseini](https://twitter.com/tifuseini)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
